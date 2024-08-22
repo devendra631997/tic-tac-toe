@@ -1,2 +1,2 @@
 # tic-tac-toee
-http://tic-tacc-toee.netlify.com/
+https://tic-tacc-toee.netlify.app
